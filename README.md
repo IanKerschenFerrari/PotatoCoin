@@ -1,5 +1,5 @@
 # PotatoCoin
-<h2> A simple mineable cryptocurrency. <h2/>
+<h2> A simple mineable cryptocurrency. </h2>
 
 **To become a non-mining network user, just follow these steps...**
 > 1) Install the compressed file.
